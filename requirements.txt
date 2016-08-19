@@ -1,0 +1,14 @@
+adium-theme-ubuntu==0.3.4
+certifi==2016.8.8
+click==6.6
+Flask==0.11.1
+future==0.15.2
+gunicorn==19.6.0
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+python-telegram-bot==5.0.0
+unity-lens-photos==1.0
+urllib3==1.16
+virtualenv==15.0.1
+Werkzeug==0.11.10
